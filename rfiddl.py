@@ -1,5 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf8 -*-
+# Credit to mxgxw whose program this is based on
 
 import RPi.GPIO as GPIO
 import MFRC522
