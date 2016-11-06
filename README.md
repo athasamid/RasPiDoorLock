@@ -12,3 +12,5 @@ cookieclient.py
 
 
 NOTE: Install this https://github.com/mxgxw/MFRC522-python and https://github.com/lthiery/SPI-Py and then place the program 'rfiddl.py in the MFRC522 folder in order to run the program successfully.
+
+ORIGINAL REPO : https://github.com/cameronkempster/RasPiDoorLock
